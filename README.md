@@ -31,3 +31,6 @@ These metrics show the average error in the predictions. The MAE indicates that,
    cd pfsinterns
 jupyter notebook House_Price_Prediction_PFSInterns.ipynb
 
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
