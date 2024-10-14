@@ -31,17 +31,3 @@ These metrics show the average error in the predictions. The MAE indicates that,
    cd pfsinterns
 jupyter notebook House_Price_Prediction_PFSInterns.ipynb
 
-### Where to Insert Them:
-You should add these steps directly after step 1 (which is cloning the repository) under the **How to Run** section.
-
-### Full Example with Steps:
-
-Here is the complete **How to Run** section that includes steps 2 and 3:
-
-```markdown
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/muhammadmilhan97/pfsinterns.git
-cd pfsinterns
-jupyter notebook House_Price_Prediction_PFSInterns.ipynb
